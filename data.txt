@@ -1,3 +1,0 @@
-Name: Alicia
-Age: 24
-Favorite color: blue
